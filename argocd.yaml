@@ -27,9 +27,7 @@
         route:
           enabled: false
     controller:
-      sharding:
-        enabled: true  
-        replicas: 3 
+      sharding: {}
       processors: {}
       resources:
         limits:
