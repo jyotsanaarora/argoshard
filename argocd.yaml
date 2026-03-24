@@ -27,7 +27,8 @@
         route:
           enabled: false
     controller:
-      sharding: {}
+      sharding:
+        enabled: false 
       processors: {}
       resources:
         limits:
