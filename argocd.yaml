@@ -11,7 +11,7 @@
       controller: true
       kind: GitopsService
       name: cluster
-      uid: 2f91f22b-66f3-4215-8cc5-d3fb625ff904
+      uid: ee3200dd-b3ed-4ce4-ab1f-0ad2786aa6d5
   spec:
     applicationSet:
       resources:
